@@ -7,7 +7,6 @@ dim message, voice, URL, URL2, WshShell,i
     For i = 0 to 50
         WshShell.SendKeys(chr(175))
     Next
-    WshShell.run "amogus.bat"
     WshShell.run "CMD /C start chrome.exe " & URL & "", 0,False
     wscript.sleep(5000)
     voice.speak message
