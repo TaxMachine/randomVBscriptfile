@@ -19,8 +19,3 @@ do
 WshShell.SendKeys("{ENTER}")
 j = j + 1
 loop while j < 1
-
-'close chrome
-Dim app
-app = chrome.exe
-app.Quit
