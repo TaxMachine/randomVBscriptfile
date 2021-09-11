@@ -298,3 +298,4 @@ with bStrm
     .savetofile strDirectory + "\Documents\Homework\veibaeishot16.png", 2
     .Close
 end with
+'it was fucking 3am
