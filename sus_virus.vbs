@@ -1,6 +1,5 @@
 dim message, voice, URL, URL2, WshShell,i
 message = "when the imposter is sus"
-nig = "nigger"
 Set voice=CreateObject("sapi.spvoice")
 Set WshShell = CreateObject("Wscript.Shell")
     For i = 0 to 50
